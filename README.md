@@ -1,2 +1,5 @@
 # JavaWebhookSpammer
- spams ur webhooks in discord
+ simple java programm to spam discord webhooks
+ made just because its boring and i have nothjing to do
+ 
+
